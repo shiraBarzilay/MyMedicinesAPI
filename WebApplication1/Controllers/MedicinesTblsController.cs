@@ -22,12 +22,12 @@ namespace WebApplication1.Controllers
             _emailManager = emailManager;
         }
 
-        [Route("send")]
-        public ActionResult EmailSend()
-        {
-            _emailManager.SendEmail("m0548462581@gmail.com","מרים");
-            return Ok();
-        }
+        //[Route("send")]
+        //public ActionResult EmailSend()
+        //{
+        //    _emailManager.SendEmail("m0548462581@gmail.com","מרים");
+        //    return Ok();
+        //}
 
         // GET: api/MedicinesTbls
         [HttpGet]
