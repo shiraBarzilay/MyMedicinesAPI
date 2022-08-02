@@ -267,3 +267,6 @@ C:\Users\user1\Desktop\FinalProject\server\WebApplication1\WebApplication1\bin\D
 C:\Users\user1\Desktop\FinalProject\server\WebApplication1\WebApplication1\bin\Debug\net6.0\MimeKit.dll
 C:\Users\user1\Desktop\FinalProject\server\WebApplication1\WebApplication1\bin\Debug\net6.0\NETCore.MailKit.dll
 C:\Users\user1\Desktop\FinalProject\server\WebApplication1\WebApplication1\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\מריום\תכנות שליייי\פרויקט גמר\C#Server\WebApplication1\MyMedicinesAPI\WebApplication1\obj\Debug\net6.0\WebApplication1.dll
+C:\מריום\תכנות שליייי\פרויקט גמר\C#Server\WebApplication1\MyMedicinesAPI\WebApplication1\obj\Debug\net6.0\refint\WebApplication1.dll
+C:\מריום\תכנות שליייי\פרויקט גמר\C#Server\WebApplication1\MyMedicinesAPI\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb
