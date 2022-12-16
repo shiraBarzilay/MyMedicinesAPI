@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\מריום\\תכנות שליייי\\פרויקט גמר\\C#Server\\WebApplication1\\MyMedicinesAPI\\WebApplication1\\WebApplication1.csproj": {}
+    "C:\\Users\\user1\\Desktop\\FinalProject\\server\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {}
   },
   "projects": {
-    "C:\\מריום\\תכנות שליייי\\פרויקט גמר\\C#Server\\WebApplication1\\MyMedicinesAPI\\Repositories\\Repositories.csproj": {
+    "C:\\Users\\user1\\Desktop\\FinalProject\\server\\WebApplication1\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\מריום\\תכנות שליייי\\פרויקט גמר\\C#Server\\WebApplication1\\MyMedicinesAPI\\Repositories\\Repositories.csproj",
-        "projectName": "Repositories",
-        "projectPath": "C:\\מריום\\תכנות שליייי\\פרויקט גמר\\C#Server\\WebApplication1\\MyMedicinesAPI\\Repositories\\Repositories.csproj",
-        "packagesPath": "C:\\Users\\מריומה\\.nuget\\packages\\",
-        "outputPath": "C:\\מריום\\תכנות שליייי\\פרויקט גמר\\C#Server\\WebApplication1\\MyMedicinesAPI\\Repositories\\obj\\",
+        "projectUniqueName": "C:\\Users\\user1\\Desktop\\FinalProject\\server\\WebApplication1\\Repository\\Repository.csproj",
+        "projectName": "Repository",
+        "projectPath": "C:\\Users\\user1\\Desktop\\FinalProject\\server\\WebApplication1\\Repository\\Repository.csproj",
+        "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user1\\Desktop\\FinalProject\\server\\WebApplication1\\Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\מריומה\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,6 +39,40 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Colorful.Console": {
+              "target": "Package",
+              "version": "[1.2.6, )",
+              "noWarn": [
+                "NU1605"
+              ]
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.NETCore.Targets": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -49,21 +83,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.307\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\מריום\\תכנות שליייי\\פרויקט גמר\\C#Server\\WebApplication1\\MyMedicinesAPI\\WebApplication1\\WebApplication1.csproj": {
+    "C:\\Users\\user1\\Desktop\\FinalProject\\server\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\מריום\\תכנות שליייי\\פרויקט גמר\\C#Server\\WebApplication1\\MyMedicinesAPI\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "C:\\Users\\user1\\Desktop\\FinalProject\\server\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "C:\\מריום\\תכנות שליייי\\פרויקט גמר\\C#Server\\WebApplication1\\MyMedicinesAPI\\WebApplication1\\WebApplication1.csproj",
-        "packagesPath": "C:\\Users\\מריומה\\.nuget\\packages\\",
-        "outputPath": "C:\\מריום\\תכנות שליייי\\פרויקט גמר\\C#Server\\WebApplication1\\MyMedicinesAPI\\WebApplication1\\obj\\",
+        "projectPath": "C:\\Users\\user1\\Desktop\\FinalProject\\server\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user1\\Desktop\\FinalProject\\server\\WebApplication1\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\מריומה\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -77,8 +116,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\מריום\\תכנות שליייי\\פרויקט גמר\\C#Server\\WebApplication1\\MyMedicinesAPI\\Repositories\\Repositories.csproj": {
-                "projectPath": "C:\\מריום\\תכנות שליייי\\פרויקט גמר\\C#Server\\WebApplication1\\MyMedicinesAPI\\Repositories\\Repositories.csproj"
+              "C:\\Users\\user1\\Desktop\\FinalProject\\server\\WebApplication1\\Repository\\Repository.csproj": {
+                "projectPath": "C:\\Users\\user1\\Desktop\\FinalProject\\server\\WebApplication1\\Repository\\Repository.csproj"
               }
             }
           }
@@ -93,29 +132,15 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "Microsoft.AspNet.WebApi.Cors": {
-              "target": "Package",
-              "version": "[5.2.9, )"
-            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[6.0.7, )"
+              "version": "[7.0.1, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.7, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[6.0.7, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[6.0.7, )"
+              "version": "[7.0.1, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
@@ -148,7 +173,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.307\\RuntimeIdentifierGraph.json"
         }
       }
     }

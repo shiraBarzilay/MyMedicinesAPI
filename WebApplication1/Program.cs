@@ -1,9 +1,10 @@
 using Microsoft.EntityFrameworkCore;
 using NETCore.MailKit.Extensions;
 using NETCore.MailKit.Infrastructure.Internal;
-using Repositories.GeneratedModels;
+using Repository.GeneratedModels;
+//using Repositories.GeneratedModels;
 using WebApplication1;
-
+//using WebApplication1.Controllers;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.

@@ -1,0 +1,8 @@
+C:\Users\user1\Desktop\FinalProject\server\WebApplication1\DLL\bin\Debug\DLL.exe.config
+C:\Users\user1\Desktop\FinalProject\server\WebApplication1\DLL\bin\Debug\DLL.exe
+C:\Users\user1\Desktop\FinalProject\server\WebApplication1\DLL\bin\Debug\DLL.pdb
+C:\Users\user1\Desktop\FinalProject\server\WebApplication1\DLL\obj\Debug\DLL.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\FinalProject\server\WebApplication1\DLL\obj\Debug\DLL.csproj.SuggestedBindingRedirects.cache
+C:\Users\user1\Desktop\FinalProject\server\WebApplication1\DLL\obj\Debug\DLL.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\FinalProject\server\WebApplication1\DLL\obj\Debug\DLL.exe
+C:\Users\user1\Desktop\FinalProject\server\WebApplication1\DLL\obj\Debug\DLL.pdb
