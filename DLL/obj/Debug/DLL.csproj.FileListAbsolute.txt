@@ -6,3 +6,10 @@ C:\Users\user1\Desktop\FinalProject\server\WebApplication1\DLL\obj\Debug\DLL.csp
 C:\Users\user1\Desktop\FinalProject\server\WebApplication1\DLL\obj\Debug\DLL.csproj.CoreCompileInputs.cache
 C:\Users\user1\Desktop\FinalProject\server\WebApplication1\DLL\obj\Debug\DLL.exe
 C:\Users\user1\Desktop\FinalProject\server\WebApplication1\DLL\obj\Debug\DLL.pdb
+C:\projects\MyMedicinesAPI\DLL\bin\Debug\DLL.exe.config
+C:\projects\MyMedicinesAPI\DLL\bin\Debug\DLL.exe
+C:\projects\MyMedicinesAPI\DLL\bin\Debug\DLL.pdb
+C:\projects\MyMedicinesAPI\DLL\obj\Debug\DLL.csproj.AssemblyReference.cache
+C:\projects\MyMedicinesAPI\DLL\obj\Debug\DLL.csproj.CoreCompileInputs.cache
+C:\projects\MyMedicinesAPI\DLL\obj\Debug\DLL.exe
+C:\projects\MyMedicinesAPI\DLL\obj\Debug\DLL.pdb

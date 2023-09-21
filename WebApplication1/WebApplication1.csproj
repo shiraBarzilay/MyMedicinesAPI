@@ -36,4 +36,16 @@
     <ProjectReference Include="..\Repository\Repository.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Reference Include="EntityFramework">
+      <HintPath>H:\תיקיה חדשה (2)\תכנות\'שנה ב\dote NET\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer">
+      <HintPath>H:\תיקיה חדשה (2)\תכנות\'שנה ב\dote NET\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.DataAnnotations">
+      <HintPath>H:\תיקיה חדשה (2)\תכנות\'שנה ב\dote NET\System.ComponentModel.DataAnnotations.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
