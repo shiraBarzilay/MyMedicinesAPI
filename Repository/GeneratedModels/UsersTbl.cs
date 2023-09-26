@@ -20,4 +20,6 @@ public partial class UsersTbl
     public DateOnly? UserBirthDate { get; set; }
 
     public string? UserCity { get; set; }
+
+    public virtual ICollection<UserMedicinesTbl> UserMedicinesTbls { get; } = new List<UserMedicinesTbl>();
 }
